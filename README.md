@@ -1,7 +1,7 @@
 
 # Mute Plugin
 
-Plugin made for [senior team](https://www.senior-studios.com/discord).
+Plugin made by [jp_strapasson]().
 
 ## Imports
 I'm using:
